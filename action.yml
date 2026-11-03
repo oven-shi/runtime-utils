@@ -1,0 +1,5 @@
+name: 'Runtime Utils'
+description: 'Utility helper for runtime checks'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
